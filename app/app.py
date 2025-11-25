@@ -71,8 +71,8 @@ import os
 app = Flask(__name__)
 
 # Load trained model and feature columns
-MODEL_PATH = r"D:\Project\Credit_Risk\src\model.pkl"
-COLUMNS_PATH = r"D:\Project\Credit_Risk\src\model_columns.pkl"
+MODEL_PATH = r"D:\Ai_labs_Project\Credit_Risk\src\model.pkl"
+COLUMNS_PATH = r"D:\Ai_labs_Project\Credit_Risk\src\model_columns.pkl"
 
 if not os.path.exists(MODEL_PATH) or not os.path.exists(COLUMNS_PATH):
     raise FileNotFoundError("Model or column file not found. Ensure model.pkl and model_columns.pkl exist.")
