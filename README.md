@@ -196,9 +196,3 @@ Then open `http://localhost:8085` in your browser and fill out the form.
 * [ ] Integrate Streamlit for modern UI
 
 ---
-
-## 🙏 Acknowledgements
-
-* Dataset: [Loan Prediction Dataset - Kaggle](https://www.kaggle.com/datasets/ninzaami/loan-predicationv)
-* SHAP: [https://github.com/slundberg/shap](https://github.com/slundberg/shap)
-
