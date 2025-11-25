@@ -202,19 +202,3 @@ Then open `http://localhost:8085` in your browser and fill out the form.
 * Dataset: [Loan Prediction Dataset - Kaggle](https://www.kaggle.com/datasets/ninzaami/loan-predicationv)
 * SHAP: [https://github.com/slundberg/shap](https://github.com/slundberg/shap)
 
----
-
-## 📬 Contact
-
-For queries or collaboration:
-📧 [your.email@example.com](mailto:your.email@example.com)
-🌐 [GitHub](https://github.com/your-username)
-
----
-
-```
-
----
-
-Let me know if you'd like this `README.md` in a downloadable `.md` file or customized with your actual GitHub username/email.
-```
